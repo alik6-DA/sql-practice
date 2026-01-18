@@ -8,18 +8,6 @@ by difficulty level.
 
 ---
 
-## Structure
-sql_practice_problems_book/
-├── introductory/
-│ └── queries.sql
-├── intermediate/
-│ └── queries.sql
-├── advanced/
-│ └── queries.sql
-└── README.md
-
-
-
 ## Difficulty Levels
 
 ### Introductory
